@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/extension-dapp": "^0.46.5",
+    "@polkadot/extension-inject": "^0.46.5",
+    "metamask": "^0.0.1-security",
+    "next": "^13.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-web3": "^1.2.0",
+    "web3": "^4.1.2"
+  }
+}
